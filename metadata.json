@@ -1,0 +1,6 @@
+{
+  "name": "BusPad GPS Live Tracker",
+  "description": "Onboard Bus Pad GPS tracking display for vehicle tablets, featuring live map navigation, real-time speed HUD, Cambodia telemetry, and passenger info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
